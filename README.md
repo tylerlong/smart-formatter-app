@@ -1,3 +1,3 @@
 # Smart Formatter
 
-Smartly format JSON/XML/HTML content.
+Smart Formatter, smartly format JSON/XML/HTML/YAML/CSS code.
